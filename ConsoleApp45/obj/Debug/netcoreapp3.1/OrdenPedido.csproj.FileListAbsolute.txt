@@ -1,0 +1,14 @@
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\OrdenPedido.exe
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\OrdenPedido.deps.json
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\OrdenPedido.runtimeconfig.json
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\OrdenPedido.runtimeconfig.dev.json
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\OrdenPedido.dll
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\OrdenPedido.pdb
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.csproj.AssemblyReference.cache
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.AssemblyInfoInputs.cache
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.AssemblyInfo.cs
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.csproj.CoreCompileInputs.cache
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.dll
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.pdb
+C:\Users\adils\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\OrdenPedido.genruntimeconfig.cache
